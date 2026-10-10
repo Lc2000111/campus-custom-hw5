@@ -73,3 +73,5 @@ This file logs the prompts typed to the AI coding assistant during HW5, organize
 ## Problem 11: Submit to GitHub
 
 1. > Problem 11: Submit to GitHub. Push your code to a public GitHub repository so graders can clone it. Put the repo URL in output/github_url.txt. Do not push the real .env to the GitHub repo. Do include both database files under data/ (the original and your working copy) so graders can run your app easily. README should explain: copy original DB to the working copy when you need a clean run, start MCP server, start Fastapi backend, star the react board, reset the DB before a full three-ticket run. The file layout should be: AI_prompts.md, requirements.txt, .env.example, .gitignore, .mcp.json, README.md, data/campus_customs.db, campus_customs_new.db, mcp_server/, frontend/, backend/, output/
+
+2. > https://github.com/Lc2000111/campus-custom-hw5

@@ -29,7 +29,7 @@ output/                harness.md, desk_tickets.html, design.md, resolved_ticket
 You need Python 3.12+ and Node 20+.
 
 ```bash
-git clone <this repo> && cd <repo folder>
+git clone https://github.com/Lc2000111/campus-custom-hw5.git && cd campus-custom-hw5
 
 # Python
 python3 -m venv .venv
